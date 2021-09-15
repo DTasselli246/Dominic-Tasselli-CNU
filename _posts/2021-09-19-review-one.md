@@ -17,5 +17,5 @@ Greg McKee, transcription assistant, 2016
 
 ![Maps](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/maps1.png)
 
-![Interpretations](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/interp1.png)
+![Interpretations](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/interp2.png)
 
