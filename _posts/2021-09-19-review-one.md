@@ -36,6 +36,8 @@ When an individual accesses the project, the first thing they encounter are thre
 
 The **About** and **Methods** sections provide clear instructions on how to use the maps and navigate the project. Additionally, they provide reasoning for what information is displayed throughout the project and where to access the project’s raw data. These sections are broken down into paragraphs, but lack headings, which may be useful for the user to locate specific information and to separate thoughts. Although highly informative, the reader may feel overwhelmed and lost by this lack of organization.
 
+![mapsfilters](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/mapfilter.png)
+
 On the side of the maps, there are checkboxes which allow the user to select certain filters, such as race, ethnicity, and class. This enables the user to see spatial-residential grouping trends within each filter. The **Modern Grayscale** and **Open Geo** filters do not noticeably add anything to the map, which may be a potential coding flaw that prevents certain computers from accessing them. Nonetheless, the maps provide a visually captivating and interactive platform users can use to identify segregation patterns among specific groups, which is the purpose of this project.
 
 The **Interpretations** section does a fantastic job linking the data provided in the map to common segregation trends of the pre and post Civil War era. However, these explanations are not separated and are rather jumbled, making it difficult for the reader to tell the difference between what trends can be seen within the different cities. Although, if read carefully, this section provides a thought-provoking and gripping analysis of apparent segregation patterns within the three major cities.
@@ -51,5 +53,5 @@ The **Exercise** section is devoid of all information and sits empty.  This sect
 
 
 
-![Interpretations](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/interp2.png)
+
 
