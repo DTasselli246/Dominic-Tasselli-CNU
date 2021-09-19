@@ -30,6 +30,8 @@ The project director has an extensive background in geography, which is the prim
 
 The first three pages of the project are maps of Washington D.C., Nashville, and Omaha. These maps are very visually appealing, captivating the viewer's attention immediately. However, these maps are the first three sections of the project, which may be confusing and slightly overwhelming to some users.
 
+![MapHomepage](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/openmaps.png)
+
 When an individual accesses the project, the first thing they encounter are three maps with no instructions on how to use them. The maps appear to not have a  purpose or relevance to the project at all. The project viewer must go to the **About** and **Methods** sections to gain insight on how to use the map and what their overall purpose is. After reading these sections, the user is then able to easily navigate the maps, creating a general purpose for the project. 
 
 The **About** and **Methods** sections provide clear instructions on how to use the maps and navigate the project. Additionally, they provide reasoning for what information is displayed throughout the project and where to access the project’s raw data. These sections are broken down into paragraphs, but lack headings, which may be useful for the user to locate specific information and to separate thoughts. Although highly informative, the reader may feel overwhelmed and lost by this lack of organization.
@@ -47,7 +49,7 @@ The **Exercise** section is devoid of all information and sits empty.  This sect
 **_Placing Segregation_** is a viable resource for both historians and anthropologists. Overall, the project provides clear and engaging visual and written descriptions of segregation trends among Washington D.C., Nashville, and Omaha in the 1860s–1870s. 
 
 
-![Maps](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/maps1.png)
+
 
 ![Interpretations](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/interp2.png)
 
