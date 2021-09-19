@@ -16,7 +16,7 @@ Rob Shepard, 2016
 
 ## Overview
 
-_Placing Segregation_ explores the spatial segregation of individuals in the 1860s–1870s using an interactive mapping system. The project focuses on three major cities at the time: Washington D.C., Nashville, and Omaha. The characteristics of race, income, and ethnicity are all primary focal points of the project, and are displayed within the mapping section. Dots are used to pinpoint where families lived in the mapping section. By clicking on these dots, the viewer can gain more information about the head of the household, such as gender, race, occupation, estate value, family real estate value, and slave owner status.
+**_Placing Segregation_** explores the spatial segregation of individuals in the 1860s–1870s using an interactive mapping system. The project focuses on three major cities at the time: Washington D.C., Nashville, and Omaha. The characteristics of race, income, and ethnicity are all primary focal points of the project, and are displayed within the mapping section. Dots are used to pinpoint where families lived in the mapping section. By clicking on these dots, the viewer can gain more information about the head of the household, such as gender, race, occupation, estate value, family real estate value, and slave owner status.
 
 ## Design and Credit
 
@@ -44,7 +44,7 @@ The **Exercise** section is devoid of all information and sits empty.  This sect
 
 ### Conclusion
 
-_Placing Segregation_ is a viable resource for both historians and anthropologists. Overall, the project provides clear and engaging visual and written descriptions of segregation trends among Washington D.C., Nashville, and Omaha in the 1860s–1870s. 
+**_Placing Segregation_** is a viable resource for both historians and anthropologists. Overall, the project provides clear and engaging visual and written descriptions of segregation trends among Washington D.C., Nashville, and Omaha in the 1860s–1870s. 
 
 
 ![Maps](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/maps1.png)
