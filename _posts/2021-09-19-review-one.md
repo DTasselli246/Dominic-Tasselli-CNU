@@ -14,11 +14,11 @@ Rob Shepard, 2016
 
 *Greg McKee, transcription assistant, 2016*
 
-### Overview
+## Overview
 
 _Placing Segregation_ explores the spatial segregation of individuals in the 1860s–1870s using an interactive mapping system. The project focuses on three major cities at the time: Washington D.C., Nashville, and Omaha. The characteristics of race, income, and ethnicity are all primary focal points of the project, and are displayed within the mapping section. Dots are used to pinpoint where families lived in the mapping section. By clicking on these dots, the viewer can gain more information about the head of the household, such as gender, race, occupation, estate value, family real estate value, and slave owner status.
 
-### Design and Credit
+## Design and Credit
 
 This project’s design and coding was created with JavaScript, CSS, and HTML functions. The mapping section of the project was completed with the use of more advanced coding, specifically through Leaflet.js, a JavaScript library. The coding used in this project is simple enough and widely accessible for most individuals to utilize for their own project or for overall data gathering.
 
@@ -26,7 +26,7 @@ This project gathers data from the census records and city directories of the 18
 
 The project director has an extensive background in geography, which is the primary focus of this project. Additionally, the transcription assistants are all undergraduate students from different Iowa colleges.
 
-### Findings
+## Findings
 
 The first three pages of the project are maps of Washington D.C., Nashville, and Omaha. These maps are very visually appealing, captivating the viewer's attention immediately. However, these maps are the first three sections of the project, which may be confusing and slightly overwhelming to some users.
 
