@@ -53,7 +53,7 @@ The **Exercises** section is devoid of all information and sits empty.  This sec
 
 ![EmptyExercise](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/emptyex.png)
 
-### Conclusion
+## Conclusion
 
 **_Placing Segregation_** is a viable resource for historians, anthropologists, sociology majors, and individuals interested in spatial segregation patterns. Overall, the project is well put together, providing clear and engaging visual and written descriptions of segregation trends among Washington D.C., Nashville, and Omaha that occured in the 1860s–1870s. 
 
