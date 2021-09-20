@@ -35,9 +35,11 @@ The first three pages of the project are maps of Washington D.C., Nashville, and
 
 The maps appear to not have a purpose or relevance to the project initially. The project viewer must go to the **About** and **Methods** sections to gain insight on how to use the map and what their overall purpose is. After reading these sections, the user is then able to easily navigate the maps, creating a general purpose for the project. 
 
+![Mapsfilters](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/mapfilter.png)
+
 The **About** and **Methods** sections provide clear instructions on how to use the maps and navigate the project. Additionally, they provide reasoning for what information is displayed throughout the project and where to access the project’s raw data. These sections are broken down into paragraphs, but lack headings, which may be useful for the user to locate specific information and to separate thoughts. Although highly informative, the reader may feel overwhelmed and lost by this lack of organization.
 
-![Mapsfilters](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/mapfilter.png)
+![Mapsfilters2](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/mapfilter2.png)
 
 On the side of the maps, there are checkboxes which allow the user to select certain filters, such as race, ethnicity, and class. This enables the user to see spatial-residential grouping trends within each filter. The **Modern Grayscale** and **Open Geo** filters do not noticeably add anything to the map, which may be a potential coding flaw that prevents certain computers from accessing them. Nonetheless, the maps provide a visually captivating and interactive platform users can use to identify segregation patterns among specific groups, which is the purpose of this project.
 
