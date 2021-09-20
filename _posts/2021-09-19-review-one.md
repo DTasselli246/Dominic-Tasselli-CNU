@@ -2,7 +2,7 @@
 
 ## Project Info
 #### URL: 
-https://dsps.lib.uiowa.edu/placingsegregation/
+[https://dsps.lib.uiowa.edu/placingsegregation/](https://dsps.lib.uiowa.edu/placingsegregation/)
 
 ### Project Director:
 **Rob Shepard, 2016**
