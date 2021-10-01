@@ -1,5 +1,5 @@
 # CNU Map Blog Dominic Tasselli
-I used ThingLink to create an intervative map, describing my favorite places adn experiences from freshman yeat at CNU.
+I used ThingLink to create an intervative map which described my favorite places and experiences from freshman yeat at CNU.
 
 <iframe width="960" height="505.2631578947368" data-original-width="2052" data-original-height="1080" src="https://www.thinglink.com/card/1496687483709030402" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
 
