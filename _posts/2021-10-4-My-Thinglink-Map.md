@@ -4,7 +4,6 @@ I used ThingLink to create an interactive map which described my favorite places
 <iframe width="960" height="505.2631578947368" data-original-width="2052" data-original-height="1080" src="https://www.thinglink.com/card/1496687483709030402" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
 
 ###
-
 Creating my CNU interactive map provided me with a better understanding of how to use website platforms such as Thinglink. I am not a very technology savvy person. However, this project allowed me to utilize what skills I do have related to computing, while introducing new skills, such as editing photos and videos, that I am able to use in the future. Additionally, my project allowed me to reflect on some of my favorite experiences and places from my freshman year at CNU, my favorite year of college so far. I am going to graduate this May, so I thought focusing on this story would be an enjoyable and reflective experience.
 
 As a senior, it is bittersweet looking through old photos and reminiscing on my past experiences, especially from my first year at CNU. Freshman year was an important transition period for me, where I was tasked with making new friends, becoming acclimated to CNU’s campus, and living on my own. The memories and places I chose as media sources for my map highlight the most important aspects that helped me through this transitional period.
