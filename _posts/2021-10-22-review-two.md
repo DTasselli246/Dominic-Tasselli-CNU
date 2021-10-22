@@ -1,7 +1,5 @@
 # American Prison Writing Archive at Hamilton College Review
 
-## Project Information
-
 **Principal Investigator**
 
 Doran Larson, Ph.D.
