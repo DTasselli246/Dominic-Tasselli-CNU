@@ -1,7 +1,11 @@
 *Principal Investigator*
+
 Doran Larson, Ph.D.
+
 Walcott-Bartlett Professor of Literature and Creative Writing at Hamilton College
+
 dlarson@hamilton.edu
+
 https://apw.dhinitiative.org/
 
 
