@@ -9,7 +9,7 @@ dlarson@hamilton.edu
 https://apw.dhinitiative.org/
 
 
-### Overview andCredit
+### Overview and Credit
 The *American Prison Writing Archive at Hamilton College* (APWA) provides access to documents and letters written by current and former incarcerated people among prisons throughout 48 states. This project is a continuation of the book *The Fourth City*, which provides essay transcriptions of incarcerated individuals. The letters in the APWA describe the institutional experiences of prisoners, ranging from employment while in prison, to the psychological effects incarceration had on the inmates. Letters are solicited through prisoner support newsletters provided to inmates throughout the United States. A permission questionnaire is then sent back with the attached letter to the APWA, and if it is appropriate, the letter is transcribed into the letter archives. The primary purpose of this project is to gain valuable insight into the lives of the incarcerated through first hand experiences of the inmates themselves, rather than speculating on generalized information provided by external sources.
 
 
