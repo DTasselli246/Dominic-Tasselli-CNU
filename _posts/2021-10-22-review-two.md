@@ -49,7 +49,6 @@ There are multiple differences between the scanned letters of the incarcerated i
 ![Letter Example](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/crossandcaps.png)
 
 ### Conclusion
-The **American Prison Writing Archive at Hamilton College** DH project offers valuable insight into the experiences and accounts of incarcerated individuals through the use of primary source letters. Overall, this project is a viable and necessary resource for historians, sociologists, or individuals interested in the accounts of incarcerated individuals.
-
+The **American Prison Writing Archive at Hamilton College** DH project offers valuable insight into the experiences and accounts of incarcerated individuals through the use of primary source letters. Overall, this project is a viable and necessary resource for historians, sociologists, or scholars interested in the accounts of individuals within the U.S. prison system.
 
 
