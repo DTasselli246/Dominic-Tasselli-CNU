@@ -23,9 +23,9 @@ Although many of the articles we read throughout the semester pertained to DH, A
 
 <iframe width="960" height="505.2631578947368" data-original-width="2052" data-original-height="1080" src="https://www.thinglink.com/card/1496687483709030402" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
 
-![reviewtwo](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/review2.png)
-
 Shortly after we were assigned the “Shitty First Drafts” reading, the CNU map was assigned. This was my favorite assignment of the year because it allowed me to reflect on all of the memories I made during my time at CNU. Additionally, I believe that this assignment, as well as our DH Review Blogs, were the most helpful in getting to know more about DH. The CNU map allowed us to create our own interactive DH map using software we were completely unfamiliar with, giving us a chance to experience what creating a DH project outside of a blog is like. Additionally, the Review Blogs required in-depth analysis of two DH projects, allowing us to discover what aspects of the projects were effective, and what aspects were unneeded. This understanding of common effective and ineffective aspects of DH projects is specifically useful when creating our own DH projects. Furthermore, it provides an opportunity to become more familiar with the DH field in general, through examining what types of projects currently exist.
+
+![reviewtwo](https://dtasselli246.github.io/Dominic-Tasselli-CNU/images/review2.png)
 
 ## Growth as a Writer
 	
